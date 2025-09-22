@@ -13,7 +13,7 @@
         "src/index.js"
       ],
       "matches": [
-        "https://www.studocu.com/*",
+        "https://www.studocu.com/ph*",
         "https://www.studeersnel.nl/*"
       ]
     }
